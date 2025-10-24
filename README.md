@@ -1,5 +1,6 @@
-Hi, I'm Deept05! 👋
+Hi, I'm Akanksha Deepthi! 👋
 Welcome to my GitHub profile! I'm an AI Engineer passionate about building intelligent systems that solve real-world problems. With a strong foundation in machine learning, deep learning, and data science, I love exploring innovative solutions in computer vision, natural language processing, and generative AI.
+
 🚀 About Me
 
 🔍 Focus Areas: Machine Learning, Deep Learning, Computer Vision, NLP, and AI-driven automation.
@@ -40,12 +41,6 @@ NLP: spaCy, NLTK, Transformers
 Tools: Git, Docker, Jupyter, AWS (S3, SageMaker)
 
 📊 GitHub Stats
-
-🌍 Contributions
-
-Actively contribute to open-source projects in the AI/ML community.
-Participated in Kaggle competitions, achieving a top 10% ranking in [Competition Name].
-Regularly share AI tutorials and insights on [your blog/medium link].
 
 📬 Get in Touch
 I'm always excited to collaborate on AI projects or discuss innovative ideas! Reach out to me via:
