@@ -1,66 +1,37 @@
-Hi, I'm Akanksha Deepthi! 👋
-Welcome to my GitHub profile! I'm an AI Engineer passionate about building intelligent systems that solve real-world problems. With a strong foundation in machine learning, deep learning, and data science, I love exploring innovative solutions in computer vision, natural language processing, and generative AI.
+# Hi, I'm Akanksha Deepthi! 👋
 
-🚀 About Me
+**AI Engineer** passionate about building intelligent systems that solve real-world problems.  
+Strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, and **Generative AI**.
 
-🔍 Focus Areas: Machine Learning, Deep Learning, Computer Vision, NLP, and AI-driven automation.
-💻 Tech Stack: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face, Pandas, NumPy, and more.
-🌟 Interests: Developing scalable AI models, optimizing algorithms, and contributing to open-source AI projects.
-📫 Connect with me: LinkedIn | Email
+---
 
-🛠️ Featured Projects
-Below are some of my key projects that showcase my expertise in AI engineering. Feel free to explore the repositories for code, documentation, and demos!
-1. Image Classification with CNNs
+## 🚀 About Me
 
-Description: Built a convolutional neural network (CNN) using PyTorch to classify images from the CIFAR-10 dataset with 85% accuracy.
-Tech Stack: PyTorch, Python, Matplotlib
-Highlights: Implemented data augmentation, transfer learning with ResNet, and model optimization techniques.
-Repository: Image-Classification-CNN
+- 🔍 **Focus Areas**: ML, DL, CV, NLP, AI-driven automation  
+- 💻 **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face, Pandas, NumPy  
+- 🌟 **Interests**: Scalable AI models, algorithm optimization, open-source contributions  
+- 📫 **Connect**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com) | [Twitter/X](https://twitter.com/yourhandle)
 
-2. Sentiment Analysis with BERT
+---
 
-Description: Developed a sentiment analysis model using Hugging Face's BERT to analyze customer reviews with 90% accuracy.
-Tech Stack: Python, Hugging Face Transformers, Pandas
-Highlights: Fine-tuned BERT for sentiment classification and deployed the model using Flask.
-Repository: Sentiment-Analysis-BERT
+## 🛠️ Featured Projects
 
-3. AI-Powered Chatbot
+| Project | Description | Tech | Accuracy | Repo |
+|--------|-------------|------|----------|------|
+| **Image Classification with CNNs** | CNN on CIFAR-10 using PyTorch + ResNet transfer learning | PyTorch, Matplotlib | **85%** | [Image-Classification-CNN](https://github.com/deept05/Image-Classification-CNN) |
+| **Sentiment Analysis with BERT** | Fine-tuned BERT for customer review sentiment | Hugging Face, Flask | **90%** | [Sentiment-Analysis-BERT](https://github.com/deept05/Sentiment-Analysis-BERT) |
+| **AI-Powered Chatbot** | Conversational bot with RASA + custom knowledge base | RASA, NLTK | – | [AI-Chatbot](https://github.com/deept05/AI-Chatbot) |
 
-Description: Created a conversational AI chatbot using RASA and integrated it with a custom knowledge base for customer support automation.
-Tech Stack: RASA, Python, NLTK
-Highlights: Implemented intent recognition and entity extraction for dynamic responses.
-Repository: AI-Chatbot
+*Explore all repositories [here](https://github.com/deept05?tab=repositories).*
 
-💡 Skills
+---
 
-Programming: Python, R, C++
-AI/ML Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face
-Data Processing: Pandas, NumPy, SQL
-Computer Vision: OpenCV, YOLO, ImageNet
-NLP: spaCy, NLTK, Transformers
-Tools: Git, Docker, Jupyter, AWS (S3, SageMaker)
+## 💡 Skills
 
-📊 GitHub Stats
-
-📬 Get in Touch
-I'm always excited to collaborate on AI projects or discuss innovative ideas! Reach out to me via:
-
-LinkedIn
-Email
-Twitter/X
-
-Thanks for visiting my profile! Let's build the future of AI together! 
-<!--
-**deept05/deept05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+Programming      : Python · R · C++
+ML/DL Frameworks : TensorFlow · PyTorch · Scikit-learn · Hugging Face
+Data Processing  : Pandas · NumPy · SQL
+Computer Vision  : OpenCV · YOLO · ImageNet
+NLP              : spaCy · NLTK · Transformers
+Tools            : Git · Docker · Jupyter · AWS (S3, SageMaker)
