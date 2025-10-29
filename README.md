@@ -1,37 +1,43 @@
 # Hi, I'm Akanksha Deepthi! 👋
 
-**AI Engineer** passionate about building intelligent systems that solve real-world problems.  
-Strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, and **Generative AI**.
+**AI Engineer | Deep Learning | LLM & RAG Specialist**
+
+Building **real-time AI systems** for **security, automation, and research**.  
+Currently at **Datavalley.ai** (LangChain + n8n) & ex-**DRDL (DRDO)** (YOLOv7).
 
 ---
 
-## 🚀 About Me
+## 🚀 Experience
 
-- 🔍 **Focus Areas**: ML, DL, CV, NLP, AI-driven automation  
-- 💻 **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face, Pandas, NumPy  
-- 🌟 **Interests**: Scalable AI models, algorithm optimization, open-source contributions  
-- 📫 **Connect**: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com) | [Twitter/X](https://twitter.com/yourhandle)
+**Artificial Intelligence Intern**  
+*Datavalley.ai, Hyderabad* · *Jun 2025 – Present*  
+🔹 Autonomous research agent with **LangChain + LangGraph**  
+🔹 Auto Google Docs via **n8n** | Deployed: **Vercel, GCP**  
+🔹 **LangSmith** monitoring | Multi-user RAG pipeline
 
----
-
-## 🛠️ Featured Projects
-
-| Project | Description | Tech | Accuracy | Repo |
-|--------|-------------|------|----------|------|
-| **Image Classification with CNNs** | CNN on CIFAR-10 using PyTorch + ResNet transfer learning | PyTorch, Matplotlib | **85%** | [Image-Classification-CNN](https://github.com/deept05/Image-Classification-CNN) |
-| **Sentiment Analysis with BERT** | Fine-tuned BERT for customer review sentiment | Hugging Face, Flask | **90%** | [Sentiment-Analysis-BERT](https://github.com/deept05/Sentiment-Analysis-BERT) |
-| **AI-Powered Chatbot** | Conversational bot with RASA + custom knowledge base | RASA, NLTK | – | [AI-Chatbot](https://github.com/deept05/AI-Chatbot) |
-
-*Explore all repositories [here](https://github.com/deept05?tab=repositories).*
+**Machine Learning Intern**  
+*DRDL (DRDO), Hyderabad* · *May – Jun 2025*  
+🔹 **YOLOv7** object detection on COCO for **real-time security**  
+🔹 Model pruning, quantization, mixed-precision training  
+🔹 Data pipelines & technical reports for scientists
 
 ---
 
-## 💡 Skills
+## 🛠️ Key Projects
+
+| Project | Highlights | Tech |
+|--------|-----------|------|
+| **YOLOv7 Security Detection** | Real-time inference, 2× faster via pruning | YOLOv7, TensorFlow, COCO |
+| **SMS Spam Classifier** | **98% accuracy**, ensemble + Streamlit UI | LSTM, Scikit-learn, Streamlit |
+| **LSTM Title Generator** | Auto-titles for research papers, BLEU eval | Keras, CUDA, NLTK |
+
+> [All Repos →](https://github.com/deept05?tab=repositories)
+
+---
+
+## 💻 Tech Stack
 
 ```text
-Programming      : Python · R · C++
-ML/DL Frameworks : TensorFlow · PyTorch · Scikit-learn · Hugging Face
-Data Processing  : Pandas · NumPy · SQL
-Computer Vision  : OpenCV · YOLO · ImageNet
-NLP              : spaCy · NLTK · Transformers
-Tools            : Git · Docker · Jupyter · AWS (S3, SageMaker)
+Python · TensorFlow · PyTorch · LangChain · YOLO · RAG
+Scikit-learn · Pandas · Streamlit · Git · GCP · Vercel
+NLP · Computer Vision · LLM Fine-Tuning · Model Optimization
